@@ -6,7 +6,18 @@
 name: Hire Joel
 
 # Short bio or description (displayed in the header)
-description: Joel (Sallow) Francis<br/>PowerShell Enthusiast<br/>@vexx32 /u/ta11ow
+description: >
+  Joel (Sallow) Francis
+  PowerShell Enthusiast
+  @vexx32 /u/ta11ow
+
+# Introductory paragraph (displayed in the main pane)
+introduction: >
+  Hello! I'm Joel. I tinker with things. Complex problems involving code fascinate me. If you've made it this far, you've probably got word that I'm looking for new employment. Ideally I'd love to find a role where I can use my skillset to further bolster your IT assets.
+
+  You can use the links below to find some more information about my open source contributions, a copy of my resume, and some contact information.
+
+  Thanks for stopping by!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/32407840
