@@ -3,12 +3,13 @@ layout: default
 image: /images/fulls/01.jpg
 ---
 
-<p>{{ site.introduction | markdownify }}</p>
-
 <section class='navi page-links'>
-    <a href="{{ site.github.url }}/contributions/">Community Contributions</a>
-    <a href="{{ site.github.url }}/resume/">Resume</a>
-    <a href="{{ site.github.url }}/talks/">Talks</a>
+    <p>{{ site.introduction | markdownify }}</p>
+    <p>
+        <a href="{{ site.github.url }}/contributions/">Community Contributions</a>
+        <a href="{{ site.github.url }}/resume/">Resume</a>
+        <a href="{{ site.github.url }}/talks/">Talks</a>
+    </p>
 </section>
 
 <section class='navi'>
