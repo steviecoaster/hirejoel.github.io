@@ -5,9 +5,20 @@ image: /images/fulls/01.jpg
 
 <p>{{ site.introduction | markdownify }}</p>
 
-<section class='page-links'>
+<section class='navi'>
+    <h2>PowerShell Modules</h2>
+    <p>
+        <ul>
+            <li><a href="https://www.powershellgallery.com/packages/PSKoans/">PSKoans</a></li>
+            <li><a href="https://www.powershellgallery.com/packages/PSWordCloud/">PSWordCloud</a></li>
+        </ul>
+    </p>
+</section>
+
+<section class='navi page-links'>
     <a href="{{ site.github.url }}/contributions/">Community Contributions</a>
     <a href="{{ site.github.url }}/resume/">Resume</a>
+    <a href="{{ site.github.url }}/talks/">Talks</a>
 </section>
 <!-- This loops through the paginated posts (removed)
         {% for post in paginator.posts %} <section>

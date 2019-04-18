@@ -30,29 +30,30 @@ permalink: /contributions/
 - [Add -Scope Information for Update-Help](https://github.com/MicrosoftDocs/PowerShell-Docs/pull/3527)
 - [Fix Get-Member -InputObject Example](https://github.com/MicrosoftDocs/PowerShell-Docs/pull/3373)
 
-### Miscellaneous
+### SkiaSharp
 
-- SkiaSharp
-  - [SKRegion Improvements](https://github.com/mono/SkiaSharp/pull/788)
-- BuildHelpers
-  - [Fix Alias Exports](https://github.com/RamblingCookieMonster/BuildHelpers/pull/93)
-- MyTasks
-  - [Refactor Tests](https://github.com/jdhitsolutions/MyTasks/pull/34)
-- PSSysadminToolkit
-  - [Refactor Get-UserProfileSize](https://github.com/steviecoaster/PSSysadminToolkit/pull/39)
-  - [Refactor Get-MappedDrive](https://github.com/steviecoaster/PSSysadminToolkit/pull/34)
-  - [Refactor Get-Handle](https://github.com/steviecoaster/PSSysadminToolkit/pull/32)
-  - [Refactor Find-Service](https://github.com/steviecoaster/PSSysadminToolkit/pull/31)
-  - [Review/Refactor Get-ComputerFromOU](https://github.com/steviecoaster/PSSysadminToolkit/pull/21)
-- Pester
-  - [Use List\<T\> for Building Collections](https://github.com/pester/Pester/pull/1144)
-- PowerShellPracticeAndStyle
-  - [Updates to Code Layout and Formatting](https://github.com/PoshCode/PowerShellPracticeAndStyle/pull/115)
+- [SKRegion Improvements](https://github.com/mono/SkiaSharp/pull/788)
 
-## Talks
+### BuildHelpers
 
-- [Tour of the PowerShell Language Tokenizer](https://www.youtube.com/watch?v=PxwHElPtD-0&t=627s)
-- [PowerScripting Podcast #323](https://powershell.org/2019/03/episode-323-powerscripting-podcast-joel-sallow/)
-- PowerShell PowerHour Lightning Talks
-  - [#2 - Learning PowerShell with PSKoans](https://youtu.be/3Yq4sVWJrWo?t=54m)
-  - [#5 - Getting Started with Contributing to PowerShell Core](https://youtu.be/kt-nrHbgTns?t=1h5m8s)
+- [Fix Alias Exports](https://github.com/RamblingCookieMonster/BuildHelpers/pull/93)
+
+### MyTasks
+
+- [Refactor Tests](https://github.com/jdhitsolutions/MyTasks/pull/34)
+
+### PSSysadminToolkit
+
+- [Refactor Get-UserProfileSize](https://github.com/steviecoaster/PSSysadminToolkit/pull/39)
+- [Refactor Get-MappedDrive](https://github.com/steviecoaster/PSSysadminToolkit/pull/34)
+- [Refactor Get-Handle](https://github.com/steviecoaster/PSSysadminToolkit/pull/32)
+- [Refactor Find-Service](https://github.com/steviecoaster/PSSysadminToolkit/pull/31)
+- [Review/Refactor Get-ComputerFromOU](https://github.com/steviecoaster/PSSysadminToolkit/pull/21)
+
+### Pester
+
+- [Use List\<T\> for Building Collections](https://github.com/pester/Pester/pull/1144)
+
+### PowerShellPracticeAndStyle
+
+- [Updates to Code Layout and Formatting](https://github.com/PoshCode/PowerShellPracticeAndStyle/pull/115)

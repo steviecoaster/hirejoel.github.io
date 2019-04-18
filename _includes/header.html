@@ -1,8 +1,8 @@
 <!-- Header -->
 <header id="header">
     <a href="{{ site.github.url }}/" class="image avatar"><img src="{{ site.avatar }}" alt="" /></a>
-    {% if site.name %}
-    <h1>{{ site.name }}</h1>
+    {% if site.title %}
+    <h1>{{ site.title }}</h1>
     {% endif %}
-    <h2>{{ site.description | markdownify | remove: '<p>' | remove: '</p>' }}</h2>
+    <h1>{{ site.description | markdownify | remove: '<p>' | remove: '</p>' }}</h1>
 </header>
