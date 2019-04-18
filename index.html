@@ -3,9 +3,7 @@ layout: default
 image: /images/fulls/01.jpg
 ---
 
-<p>{{ site.introduction | markdownify | remove: '<p>' | remove: '</p>' }}</p>
-
-<hr />
+<p>{{ site.introduction | markdownify }}</p>
 
 <section class='page-links'>
     <a href="{{ site.github.url }}/contributions/">Community Contributions</a>
