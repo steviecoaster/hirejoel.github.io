@@ -206,6 +206,13 @@
 		&.special {
 			text-align: center;
 		}
+        &.page-links {
+            a {
+                display: inline-block;
+                margin: 2px 5px;
+                border-left: 3px solid _palette(border);
+            }
+        }
 	}
 
 	header {
