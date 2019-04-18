@@ -11,6 +11,8 @@ description: Joel (Sallow) Francis | PowerShell Enthusiast | @vexx32 /u/ta11ow
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/32407840
 
+copyright: Joel (Sallow) Francis, 2019
+
 #
 # Flags below are optional
 #
@@ -71,6 +73,7 @@ kramdown:
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :expanded # You might prefer to minify using :compressed
+  sass_dir: assets/sass
 
 # Use the following plug-ins
 gems:
@@ -84,3 +87,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+paginate_path: "/page/:num/"
+paginate: 5
