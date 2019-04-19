@@ -1,8 +1,9 @@
 <!-- Header -->
 <header id="header">
-    <a href="{{ site.github.url }}/" class="image headshot"><img src="{{ site.github.url }}/images/headshot.jpg"
-            alt="" /></a>
-    <a href="{{ site.github.url }}/" class="image avatar"><img src="{{ site.avatar }}" alt="" /></a>
+    <a href="{{ site.github.url }}/" class="image avatar">
+        <img class="headshot" src="{{ site.github.url }}/images/headshot.jpg" alt="" />
+        <img src="{{ site.avatar }}" alt="" />
+    </a>
     {% if site.title %}
     <h2><a href="{{ site.github.url }}/">{{ site.title }}</a></h2>
     {% endif %}
