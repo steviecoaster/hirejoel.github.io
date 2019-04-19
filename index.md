@@ -43,13 +43,13 @@ Below, you can find some more information about my open source contributions, my
 >
 > An introduction-to-PowerShell module modelled after [F# Koans](https://github.com/ChrisMarinos/FSharpKoans){:target="_blank"}. The Koans are a set of intentional contradictions that give the user a guided path through which they can learn the basic concepts and constructs that make up PowerShell, and how best to work with them to continually learn more
 >
-> 2,031 Downloads from PowerShell Gallery; 700 commits
+> 2K+ Downloads from PowerShell Gallery; 700 commits
 >
 > #### [PSWordCloud](https://www.powershellgallery.com/packages/PSWordCloud/2.1.0){:target="_blank"}
 >
-> A module that ingests source text (be it scripts, repositories or other documents), and outputs word clouds depicting the frequesncy of word use. Originally written in PowerShell, and later in C#.
+> A module that ingests source text (be it scripts, repositories or other documents), and creates a word cloud representing the frequency of word use. Originally written in PowerShell, and later in C# with the SkiaSharp library.
 >
-> 259 Downloads from PowerShell Gallery; 75 commits
+> 200+ Downloads from PowerShell Gallery; 75 commits
 
 ### PowerShell Core
 
