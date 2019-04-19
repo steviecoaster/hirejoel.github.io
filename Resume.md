@@ -12,44 +12,32 @@ Below, you can find some more information about my open source contributions, my
 
 ## Employment
 
-> ### [Heritage Carpet & Tile](http://www.heritageflooring.com/)
->
-> - Duration: May 2017 - Present
-> - Position: IT (Helpdesk) / Window Treatments Coordinator / Specialties Temp
-> - Summary:
->   - On-site helpdesk for any and all IT-related troubleshooting.
->   - Domain policies were restricted in scope, so I created a custom PowerShell module for initial workstation setup.
->   - Working extensively with our MSPs who helped provide hardware and specialised maintenance.
->   - Tasked with organising transition to VOIP phones as well as assisting with multiple office relocations and initial setups, working with vendors to provide necessary infrastructure, and providing on-site immediate support and troubleshooting.
->     - Monitoring and maintaining workstations, replacing aging machines, configuring new machines for users.
->
-> ### [Australia Post](https://auspost.com.au/)
->
-> - Duration: September 2015 - March 2016
-> - Position: IT (Helpdesk) / Specialties Temp
-> - Summary:
->   - Inbound call-taker.
->   - Solving customer issues or directing them to the department that can solve their issues.
->   - Many problem-solving and customer interaction opportunities.
->   - Some experience with SalesForce.
+### [Heritage Carpet & Tile](http://www.heritageflooring.com/)
 
-## [Clear-Script Blog](http://joel.pwsh.ca/)
-
-> - Primarily PowerShell-focused blog with some C# sprinkled in.
-> - Covers some of the more esoteric and lesser-known PowerShell content.
-> - Written entirely in Markdown with Kramdown, maintained on [Github](https://github.com/vexx32/vexx32.github.io).
-
-## Talks
-
-> ### In-Depth
+> **Duration:** May 2017 - Present
 >
-> - [Tour of the PowerShell Language Tokenizer](https://www.youtube.com/watch?v=PxwHElPtD-0&t=627s)
-> - [PowerScripting Podcast #323](https://powershell.org/2019/03/episode-323-powerscripting-podcast-joel-sallow/)
+> **Position:** IT (Helpdesk) / Window Treatments Coordinator / Specialties Temp
 >
-> ### PowerShell PowerHour Lightning Talks
+> **Summary:**
 >
-> - [#2 - Learning PowerShell with PSKoans](https://youtu.be/3Yq4sVWJrWo?t=54m)
-> - [#5 - Getting Started with Contributing to PowerShell Core](https://youtu.be/kt-nrHbgTns?t=1h5m8s)
+> - Tier 2/3 support for helpdesk issues.
+> - Worked with local MSP for hardware purchases and deployments.
+> - Created custom PowerShell module to automate workstation deployments.
+> - Led the rollout of VOIP phones for office.
+> - Led the technology plan for multiple relocations.
+
+### [Australia Post](https://auspost.com.au/)
+
+> **Duration:** September 2015 - March 2016
+>
+> **Position:** Customer Contact Agent
+>
+> **Summary:**
+>
+> - Inbound call-taker.
+> - Solving customer issues or directing them to the department that can solve their issues.
+> - Many problem-solving and customer interaction opportunities.
+> - Some experience with SalesForce.
 
 ## Open Source Contributions
 
@@ -103,6 +91,30 @@ Below, you can find some more information about my open source contributions, my
 >   - [Use List\<T\> for Building Collections](https://github.com/pester/Pester/pull/1144)
 > - PowerShellPracticeAndStyle
 >   - [Updates to Code Layout and Formatting](https://github.com/PoshCode/PowerShellPracticeAndStyle/pull/115)
+
+## [Clear-Script Blog](http://joel.pwsh.ca/)
+
+> - Primarily PowerShell-focused blog with some C# sprinkled in.
+> - Covers some of the more esoteric and lesser-known PowerShell content.
+> - Written entirely in Markdown with Kramdown, maintained on [Github](https://github.com/vexx32/vexx32.github.io).
+
+## Talks
+
+> ### In-Depth
+>
+> - [Tour of the PowerShell Language Tokenizer](https://www.youtube.com/watch?v=PxwHElPtD-0&t=627s)
+> - [PowerScripting Podcast #323](https://powershell.org/2019/03/episode-323-powerscripting-podcast-joel-sallow/)
+>
+> ### PowerShell PowerHour Lightning Talks
+>
+> - [#2 - Learning PowerShell with PSKoans](https://youtu.be/3Yq4sVWJrWo?t=54m)
+> - [#5 - Getting Started with Contributing to PowerShell Core](https://youtu.be/kt-nrHbgTns?t=1h5m8s)
+
+## Communities
+
+> You can frequently find me in the PowerShell Slack or Discord spaces, as well as the /r/PowerShell subreddit, where I am one of the more well-known contributors.
+> Most of my time in these spaces is spent helping others talk through and solve their more difficult problems, reviewing their code, and discussing the future of PowerShell and how it fits into the wider developer and administrative ecosystems.
+> I also frequently invest time in newer PowerShell users, helping provide learning resources and teaching concepts to help them on their journey.
 
 ## Education
 
