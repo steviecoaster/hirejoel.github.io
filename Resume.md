@@ -144,7 +144,7 @@ permalink: /resume/
 
 ## Contact Information
 
-<details markdown="true"><summary>Click to expand</summary>
+<details class="markdown"><summary>Click to expand</summary>
 
     | Type              | Contact                                                            |
     | :---------------- | :----------------------------------------------------------------- |
