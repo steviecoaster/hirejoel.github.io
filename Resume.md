@@ -1,10 +1,11 @@
----
+﻿---
 layout: post
 title: Resume
 permalink: /resume/
 ---
 
 ## Education
+
 <details><summary>Click to expand</summary>
 
 - [Southern Cross University](https://www.scu.edu.au/), Brisbane, Australia
@@ -18,9 +19,9 @@ permalink: /resume/
   - Degree Completed: Higher School Certificate
 
 </details>
-<br/>
 
 ## Employment
+
 <details><summary>Click to expand</summary>
 
 - [Heritage Carpet & Tile](http://www.heritageflooring.com/)
@@ -34,17 +35,18 @@ permalink: /resume/
   - Summary: Include brief summary of job duties, and skills employed
 
 </details>
-<br/>
 
 ## Blog
+
 <details><summary>Click to expand</summary>
 
 - [Clear-Script Blog](http://joel.pwsh.ca/)
   - Include description of topics covered, number and frequency of posts
+
 </details>
-<br/>
 
 ## Talks
+
 <details><summary>Click to expand</summary>
 
 - [Tour of the PowerShell Language Tokenizer](https://www.youtube.com/watch?v=PxwHElPtD-0&t=627s)
@@ -52,12 +54,13 @@ permalink: /resume/
 - PowerShell PowerHour Lightning Talks
   - [#2 - Learning PowerShell with PSKoans](https://youtu.be/3Yq4sVWJrWo?t=54m)
   - [#5 - Getting Started with Contributing to PowerShell Core](https://youtu.be/kt-nrHbgTns?t=1h5m8s)
+
 </details>
-<br/><br/>
 
 ## Open Source Contributions
 
 ### PowerShell Modules (Primary Author)
+
 <details><summary>Click to expand</summary>
 
 - [PSKoans](https://www.powershellgallery.com/packages/PSKoans/0.42.2)
@@ -66,10 +69,11 @@ permalink: /resume/
 - [PSWordCloud](https://www.powershellgallery.com/packages/PSWordCloud/2.1.0)
   - A module that ingests source text (be it scripts, repositories or other documents), and outputs word clouds depicting the frequesncy of word use. Originally written in PowerShell, and later in C#.
   - 259 Downloads from PowerShell Gallery; 75 commits
+
 </details>
-<br/>
 
 ### PowerShell Core
+
 <details><summary>Click to expand</summary>
 
 - [Fix Write-Output -NoEnumerate](https://github.com/PowerShell/PowerShell/pull/9069)
@@ -82,18 +86,20 @@ permalink: /resume/
 - [Add Support for Byte-type Numeric Literals](https://github.com/PowerShell/PowerShell/pull/7901)
 - [Add C#-style Numeric Literals and Type Accelerators](https://github.com/PowerShell/PowerShell/pull/7813)
 - Code Cleanup [(1)](https://github.com/PowerShell/PowerShell/pull/9074) [(2)](https://github.com/PowerShell/PowerShell/pull/9021) [(3)](https://github.com/PowerShell/PowerShell/pull/8683)
+
 </details>
-<br/>
 
 ### PowerShell-Docs
+
 <details><summary>Click to expand</summary>
 
 - [Add -Scope Information for Update-Help](https://github.com/MicrosoftDocs/PowerShell-Docs/pull/3527)
 - [Fix Get-Member -InputObject Example](https://github.com/MicrosoftDocs/PowerShell-Docs/pull/3373)
+
 </details>
-<br/>
 
 ### Miscellaneous
+
 <details><summary>Click to expand</summary>
 
 - SkiaSharp
@@ -112,33 +118,32 @@ permalink: /resume/
   - [Use List\<T\> for Building Collections](https://github.com/pester/Pester/pull/1144)
 - PowerShellPracticeAndStyle
   - [Updates to Code Layout and Formatting](https://github.com/PoshCode/PowerShellPracticeAndStyle/pull/115)
+
 </details>
-<br/>
-<br/>
 
 ### Skills
 <details><summary>Click to expand</summary>
 
-  - Problem Solving
-  - PowerShell
-  - C#
-  - F#
-  - Windows Server
-  - Windows 7-10
-  - HTML / CSS
+- Problem Solving
+- PowerShell
+- C#
+- F#
+- Windows Server
+- Windows 7-10
+- HTML / CSS
+
 </details>
-<br/>
 
 ### Languages
+
 <details><summary>Click to expand</summary>
 
- - Primarily English
- - Hablo un poco de Español
+- Primarily English
+
 </details>
-<br/>
-<br/>
 
 ## Contact Information
+
 <details><summary>Click to expand</summary>
 
 | Type              | Contact                                                            |
