@@ -558,7 +558,7 @@
 		margin: 0 0 _size(element-margin) 0;
 		padding-left: 1.25em;
 
-		li {
+		ul, ol {
             padding-left: 0.25em;
             margin-bottom: 0.25em;
         }
@@ -577,7 +577,7 @@
             margin-bottom: 0.25em;
         }
 
-		li {
+		ul, ol {
             padding-left: 0.5em;
             margin-bottom: 0.25em;
 		}
