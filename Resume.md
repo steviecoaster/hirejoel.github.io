@@ -157,4 +157,4 @@ permalink: /resume/
 
     I am currently located in South Florida. I am more than open to remote-based opportunities, but I am unable to relocate very far from where I currently reside, between Ft. Lauderdale and West Palm Beach area.
 </details>
-{: markdown}
+{: .markdown}
