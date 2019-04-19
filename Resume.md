@@ -131,8 +131,7 @@ permalink: /resume/
 
 > | Type              | Contact                                                            |
 > | :---------------- | :----------------------------------------------------------------- |
-> | Email (Primary)   | sjsallow+joel@gmail.com                                            |
-> | Email (Secondary) | joelpfrancis@gmail.com                                             |
+> | Email             | joelpfrancis@gmail.com                                             |
 > | Twitter           | [@vexx32](https://twitter.com/vexx32)                              |
 > | LinkedIn          | [Joel Francis](https://www.linkedin.com/in/joel-francis-356539128) |
 >
