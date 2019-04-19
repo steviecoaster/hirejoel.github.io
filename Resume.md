@@ -6,23 +6,26 @@ permalink: /resume/
 
 ## Employment
 
-> - [Heritage Carpet & Tile](http://www.heritageflooring.com/)
->   - Duration: May 2017 - Present
->   - Position: IT (Helpdesk) / Window Treatments Coordinator / Specialties Temp
->   - Summary:
->     - On-site helpdesk for any and all IT-related troubleshooting.
->     - Domain policies were restricted in scope, so I created a custom PowerShell module for initial workstation setup.
->     - Working extensively with our MSPs who helped provide hardware and specialised maintenance.
->     - Tasked with organising transition to VOIP phones as well as assisting with multiple office relocations and initial setups, working with vendors to provide necessary infrastructure, and providing on-site immediate support and troubleshooting.
+> ### [Heritage Carpet & Tile](http://www.heritageflooring.com/)
+>
+> - Duration: May 2017 - Present
+> - Position: IT (Helpdesk) / Window Treatments Coordinator / Specialties Temp
+> - Summary:
+>   - On-site helpdesk for any and all IT-related troubleshooting.
+>   - Domain policies were restricted in scope, so I created a custom PowerShell module for initial workstation setup.
+>   - Working extensively with our MSPs who helped provide hardware and specialised maintenance.
+>   - Tasked with organising transition to VOIP phones as well as assisting with multiple office relocations and initial setups, working with vendors to provide necessary infrastructure, and providing on-site immediate support and troubleshooting.
 >     - Monitoring and maintaining workstations, replacing aging machines, configuring new machines for users.
-> - [Australia Post](https://auspost.com.au/)
->   - Duration: September 2015 - March 2016
->   - Position: IT (Helpdesk) / Specialties Temp
->   - Summary:
->     - Inbound call-taker.
->     - Solving customer issues or directing them to the department that can solve their issues.
->     - Many problem-solving and customer interaction opportunities.
->     - Some experience with SalesForce.
+>
+> ### [Australia Post](https://auspost.com.au/)
+>
+> - Duration: September 2015 - March 2016
+> - Position: IT (Helpdesk) / Specialties Temp
+> - Summary:
+>   - Inbound call-taker.
+>   - Solving customer issues or directing them to the department that can solve their issues.
+>   - Many problem-solving and customer interaction opportunities.
+>   - Some experience with SalesForce.
 
 ## Blog
 
@@ -39,25 +42,32 @@ permalink: /resume/
 
 ## Education
 
-> - [Southern Cross University](https://www.scu.edu.au/), Brisbane, Australia
->   - Duration: February 2013 - August 2015
->   - Degrees Pursued: Bachelor of Information Technology; Bachelor of Contemporary Music
->   - Partially-Completed
->   - Two full semesters completed of Music, one semester of Information Technology.
-> - [Ballina High School](https://ballina-h.schools.nsw.gov.au/), Ballina, Australia
->   - Duration: January 2008 - October 2012
->   - Degree Completed: Higher School Certificate
+> ### [Southern Cross University](https://www.scu.edu.au/), Brisbane, Australia
+>
+> - Duration: February 2013 - August 2015
+> - Degrees Pursued: Bachelor of Information Technology; Bachelor of Contemporary Music
+> - Partially-Completed
+> - Two full semesters completed of Music, one semester of Information Technology.
+>
+> ### [Ballina High School](https://ballina-h.schools.nsw.gov.au/), Ballina, Australia
+>
+> - Duration: January 2008 - October 2012
+> - Degree Completed: Higher School Certificate
 
 ## Open Source Contributions
 
 ### PowerShell Modules (Primary Author)
 
-> - [PSKoans](https://www.powershellgallery.com/packages/PSKoans/0.42.2)
->   - An introduction-to-PowerShell module modelled after [F# Koans](https://github.com/ChrisMarinos/FSharpKoans). The Koans are a set of intentional contradictions that give the user a guided path through which they can learn the basic concepts and constructs that make up PowerShell, and how best to work with them to continually learn more
->   - 2,031 Downloads from PowerShell Gallery; 700 commits
-> - [PSWordCloud](https://www.powershellgallery.com/packages/PSWordCloud/2.1.0)
->   - A module that ingests source text (be it scripts, repositories or other documents), and outputs word clouds depicting the frequesncy of word use. Originally written in PowerShell, and later in C#.
->   - 259 Downloads from PowerShell Gallery; 75 commits
+> #### [PSKoans](https://www.powershellgallery.com/packages/PSKoans/0.42.2)
+>
+> An introduction-to-PowerShell module modelled after [F# Koans](https://github.com/ChrisMarinos/FSharpKoans). The Koans are a set of intentional contradictions that give the user a guided path through which they can learn the basic concepts and constructs that make up PowerShell, and how best to work with them to continually learn more
+>
+> 2,031 Downloads from PowerShell Gallery; 700 commits
+> #### [PSWordCloud](https://www.powershellgallery.com/packages/PSWordCloud/2.1.0)
+>
+> A module that ingests source text (be it scripts, repositories or other documents), and outputs word clouds depicting the frequesncy of word use. Originally written in PowerShell, and later in C#.
+>
+> 259 Downloads from PowerShell Gallery; 75 commits
 
 ### PowerShell Core
 
