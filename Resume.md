@@ -18,8 +18,6 @@ Below, you can find some more information about my open source contributions, my
 >
 > **Position:** IT (Helpdesk) / Window Treatments Coordinator / Specialties Temp
 >
-> **Summary:**
->
 > - Tier 2/3 support for helpdesk issues.
 > - Worked with local MSP for hardware purchases and deployments.
 > - Created custom PowerShell module to automate workstation deployments.
@@ -31,8 +29,6 @@ Below, you can find some more information about my open source contributions, my
 > **Duration:** September 2015 - March 2016
 >
 > **Position:** Customer Contact Agent
->
-> **Summary:**
 >
 > - Inbound call-taker.
 > - Solving customer issues or directing them to the department that can solve their issues.
