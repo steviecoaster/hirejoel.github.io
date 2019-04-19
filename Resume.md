@@ -4,6 +4,12 @@ title: Resume
 permalink: /resume/
 ---
 
+Hello! I'm Joel, and I enjoy solving problems. Whether it be complex problems involving code, enhancements to open source projects, or just fun little challenges like creating word clouds, I’m always game for a new puzzle.
+
+If you’ve made it here, you’re probably aware that I am seeking my next challenge. Ideally I'd love to find a role where I can add a great deal of value as I improve my own skillsets as well as those of the people I work with. I would love to find a new opportunity to use my skills, and add value to your organization!
+
+Below, you can find some more information about my open source contributions, my PowerShell blog, a copy of my resume, and some contact information. Feel free to reach out and let's discuss how I can be an asset to your team!
+
 ## Employment
 
 > ### [Heritage Carpet & Tile](http://www.heritageflooring.com/)
