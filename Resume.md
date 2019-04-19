@@ -7,9 +7,7 @@ permalink: /resume/
 ## Education
 
 <details>
-    <summary>
-        Click to expand
-    </summary>
+    <summary>Click to expand</summary>
 
   - [Southern Cross University](https://www.scu.edu.au/), Brisbane, Australia
     - Duration: February 2013 - August 2015
@@ -26,9 +24,7 @@ permalink: /resume/
 ## Employment
 
 <details>
-    <summary>
-        Click to expand
-    </summary>
+    <summary>Click to expand</summary>
 
   - [Heritage Carpet & Tile](http://www.heritageflooring.com/)
   - Duration: May 2017 - Present
@@ -45,9 +41,7 @@ permalink: /resume/
 ## Blog
 
 <details>
-    <summary>
-        Click to expand
-    </summary>
+    <summary>Click to expand</summary>
 
   - [Clear-Script Blog](http://joel.pwsh.ca/)
   - Include description of topics covered, number and frequency of posts
@@ -57,9 +51,7 @@ permalink: /resume/
 ## Talks
 
 <details>
-    <summary>
-        Click to expand
-    </summary>
+    <summary>Click to expand</summary>
 
   - [Tour of the PowerShell Language Tokenizer](https://www.youtube.com/watch?v=PxwHElPtD-0&t=627s)
   - [PowerScripting Podcast #323](https://powershell.org/2019/03/episode-323-powerscripting-podcast-joel-sallow/)
@@ -74,9 +66,7 @@ permalink: /resume/
 ### PowerShell Modules (Primary Author)
 
 <details>
-    <summary>
-        Click to expand
-    </summary>
+    <summary>Click to expand</summary>
 
     - [PSKoans](https://www.powershellgallery.com/packages/PSKoans/0.42.2)
     - An introduction-to-PowerShell module modelled after [F# Koans](https://github.com/ChrisMarinos/FSharpKoans). The Koans are a set of intentional contradictions that give the user a guided path through which they can learn the basic concepts and constructs that make up PowerShell, and how best to work with them to continually learn more
@@ -90,9 +80,7 @@ permalink: /resume/
 ### PowerShell Core
 
 <details>
-    <summary>
-        Click to expand
-    </summary>
+    <summary>Click to expand</summary>
 
   - [Fix Write-Output -NoEnumerate](https://github.com/PowerShell/PowerShell/pull/9069)
   - [Fix Casting Conversions for Suffixed Numeric Strings](https://github.com/PowerShell/PowerShell/pull/8681)
@@ -110,9 +98,7 @@ permalink: /resume/
 ### PowerShell-Docs
 
 <details>
-    <summary>
-        Click to expand
-    </summary>
+    <summary>Click to expand</summary>
 
   - [Add -Scope Information for Update-Help](https://github.com/MicrosoftDocs/PowerShell-Docs/pull/3527)
   - [Fix Get-Member -InputObject Example](https://github.com/MicrosoftDocs/PowerShell-Docs/pull/3373)
@@ -122,9 +108,7 @@ permalink: /resume/
 ### Miscellaneous
 
 <details>
-    <summary>
-        Click to expand
-    </summary>
+    <summary>Click to expand</summary>
 
   - SkiaSharp
     - [SKRegion Improvements](https://github.com/mono/SkiaSharp/pull/788)
@@ -147,9 +131,7 @@ permalink: /resume/
 
 ### Skills
 <details>
-    <summary>
-        Click to expand
-    </summary>
+    <summary>Click to expand</summary>
 
   - Problem Solving
   - PowerShell
@@ -164,9 +146,7 @@ permalink: /resume/
 ### Languages
 
 <details>
-    <summary>
-        Click to expand
-    </summary>
+    <summary>Click to expand</summary>
 
   - Primarily English
 
@@ -175,9 +155,7 @@ permalink: /resume/
 ## Contact Information
 
 <details>
-    <summary>
-        Click to expand
-    </summary>
+    <summary>Click to expand</summary>
 
     | Type              | Contact                                                            |
     | :---------------- | :----------------------------------------------------------------- |
