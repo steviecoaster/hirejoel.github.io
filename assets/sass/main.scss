@@ -546,7 +546,22 @@
 
 			img {
 				border-radius: 100%;
-				width: 100%;
+                width: 25%;
+                margin-left: 75%;
+                float: right;
+			}
+        }
+
+		&.headshot {
+			border-radius: 100%;
+
+			&:before {
+				display: none;
+			}
+
+			img {
+				border-radius: 100%;
+                width: 100%;
 			}
 		}
 	}
