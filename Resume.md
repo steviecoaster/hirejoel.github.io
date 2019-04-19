@@ -45,20 +45,6 @@ permalink: /resume/
 > - [#2 - Learning PowerShell with PSKoans](https://youtu.be/3Yq4sVWJrWo?t=54m)
 > - [#5 - Getting Started with Contributing to PowerShell Core](https://youtu.be/kt-nrHbgTns?t=1h5m8s)
 
-## Education
-
-> ### [Southern Cross University](https://www.scu.edu.au/), Brisbane, Australia
->
-> - Duration: February 2013 - August 2015
-> - Degrees Pursued: Bachelor of Information Technology; Bachelor of Contemporary Music
-> - Partially-Completed
-> - Two full semesters completed of Music, one semester of Information Technology.
->
-> ### [Ballina High School](https://ballina-h.schools.nsw.gov.au/), Ballina, Australia
->
-> - Duration: January 2008 - October 2012
-> - Degree Completed: Higher School Certificate
-
 ## Open Source Contributions
 
 ### PowerShell Modules (Primary Author)
@@ -112,16 +98,31 @@ permalink: /resume/
 > - PowerShellPracticeAndStyle
 >   - [Updates to Code Layout and Formatting](https://github.com/PoshCode/PowerShellPracticeAndStyle/pull/115)
 
+## Education
+
+> ### [Southern Cross University](https://www.scu.edu.au/), Brisbane, Australia
+>
+> - Duration: February 2013 - August 2015
+> - Degrees Pursued: Bachelor of Information Technology; Bachelor of Contemporary Music
+> - Partially-Completed
+> - Two full semesters completed of Music, one semester of Information Technology.
+>
+> ### [Ballina High School](https://ballina-h.schools.nsw.gov.au/), Ballina, Australia
+>
+> - Duration: January 2008 - October 2012
+> - Degree Completed: Higher School Certificate
+
 ## Skills
 
 > - PowerShell
-> - Problem Solving & Troubleshooting
 > - C#
 > - F#
 > - Git
+> - HTML / CSS
 > - Windows Server 2008-2016
 > - Windows 7-10
-> - HTML / CSS
+> - Active Directory
+> - Microsoft Office
 
 ## Languages
 
@@ -129,12 +130,12 @@ permalink: /resume/
 
 ## Contact Information
 
-> | Type              | Contact                                                            |
-> | :---------------- | :----------------------------------------------------------------- |
-> | Email             | joelpfrancis@gmail.com                                             |
-> | Twitter           | [@vexx32](https://twitter.com/vexx32)                              |
-> | LinkedIn          | [Joel Francis](https://www.linkedin.com/in/joel-francis-356539128) |
->
-> ### Location
->
+| Type     | Contact                                                            |
+| :------- | :----------------------------------------------------------------- |
+| Email    | joelpfrancis@gmail.com                                             |
+| Twitter  | [@vexx32](https://twitter.com/vexx32)                              |
+| LinkedIn | [Joel Francis](https://www.linkedin.com/in/joel-francis-356539128) |
+
+## Location
+
 > I am currently located in South Florida. I am more than open to remote-based opportunities, but I am unable to relocate very far from where I currently reside, between Ft. Lauderdale and West Palm Beach area.
