@@ -146,7 +146,7 @@ Below, you can find some more information about my open source contributions, my
 
 | Type     | Contact                                                            |
 | :------- | :----------------------------------------------------------------- |
-| Email    | joelpfrancis@gmail.com                                             |
+| Email    | [joelpfrancis@gmail.com](mailto:joelpfrancis@gmail.com)            |
 | Twitter  | [@vexx32](https://twitter.com/vexx32)                              |
 | LinkedIn | [Joel Francis](https://www.linkedin.com/in/joel-francis-356539128) |
 
