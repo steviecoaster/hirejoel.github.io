@@ -27,16 +27,21 @@ permalink: /resume/
 >   - Many problem-solving and customer interaction opportunities.
 >   - Some experience with SalesForce.
 
-## Blog
+## [Clear-Script Blog](http://joel.pwsh.ca/)
 
-> - [Clear-Script Blog](http://joel.pwsh.ca/)
-> - Include description of topics covered, number and frequency of posts
+> - Primarily PowerShell-focused blog with some C# sprinkled in.
+> - Covers some of the more esoteric and lesser-known PowerShell content.
+> - Written entirely in Markdown with Kramdown, maintained on [Github](https://github.com/vexx32/vexx32.github.io).
 
 ## Talks
 
+> ### In-Depth
+>
 > - [Tour of the PowerShell Language Tokenizer](https://www.youtube.com/watch?v=PxwHElPtD-0&t=627s)
 > - [PowerScripting Podcast #323](https://powershell.org/2019/03/episode-323-powerscripting-podcast-joel-sallow/)
-> - PowerShell PowerHour Lightning Talks
+>
+> ### PowerShell PowerHour Lightning Talks
+>
 > - [#2 - Learning PowerShell with PSKoans](https://youtu.be/3Yq4sVWJrWo?t=54m)
 > - [#5 - Getting Started with Contributing to PowerShell Core](https://youtu.be/kt-nrHbgTns?t=1h5m8s)
 
@@ -63,6 +68,7 @@ permalink: /resume/
 > An introduction-to-PowerShell module modelled after [F# Koans](https://github.com/ChrisMarinos/FSharpKoans). The Koans are a set of intentional contradictions that give the user a guided path through which they can learn the basic concepts and constructs that make up PowerShell, and how best to work with them to continually learn more
 >
 > 2,031 Downloads from PowerShell Gallery; 700 commits
+>
 > #### [PSWordCloud](https://www.powershellgallery.com/packages/PSWordCloud/2.1.0)
 >
 > A module that ingests source text (be it scripts, repositories or other documents), and outputs word clouds depicting the frequesncy of word use. Originally written in PowerShell, and later in C#.
