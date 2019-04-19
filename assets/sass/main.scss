@@ -95,7 +95,7 @@
 		color: _palette(fg-bold);
 		font-weight: _font(weight-bold);
 		line-height: 1em;
-		margin: 0 0 (_size(element-margin) * 0.5) 0;
+		margin: (_size(element-margin) * 0.25) 0 (_size(element-margin) * 0.25) 0;
 
 		a {
 			color: inherit;
