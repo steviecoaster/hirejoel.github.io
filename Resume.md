@@ -1,5 +1,6 @@
 ﻿---
-layout: post
+layout: default
+image: /images/fulls/01.jpg
 title: About Me
 permalink: /resume/
 ---

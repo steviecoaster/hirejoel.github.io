@@ -5,22 +5,36 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-  <head>
-    {% include head.html %}
-    {% include opengraph.html %}
-    {% include twittercard.html %}
-  </head>
-	<body id="top">
 
-		{% include header.html %}
+<head>
+	{% include head.html %}
+	{% include opengraph.html %}
+	{% include twittercard.html %}
+</head>
 
-		<!-- Main -->
-			<div id="main">
+<body id="top">
+
+	{% include header.html %}
+
+	<!-- Main -->
+	<div id="main">
+		<article>
+			{% if page.title %}
+			<header class="major">
+				<h2>{{ page.title }}</h2>
+			</header>
+			{% endif %}
+
+			<section>
 				{{ content }}
-			</div>
+			</section>
+		</article>
 
-      {% include footer.html %}
-      {% include scripts.html %}
+	</div>
 
-	</body>
+	{% include footer.html %}
+	{% include scripts.html %}
+
+</body>
+
 </html>
