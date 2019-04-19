@@ -2,7 +2,6 @@
 layout: default
 image: /images/fulls/01.jpg
 title: About Me
-permalink: /resume/
 ---
 
 Hello! I'm Joel, and I enjoy solving problems. Whether it be complex problems involving code, enhancements to open source projects, or just fun little challenges like creating word clouds, I’m always game for a new puzzle.
