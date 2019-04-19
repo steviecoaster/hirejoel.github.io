@@ -558,12 +558,11 @@
 		margin: 0 0 _size(element-margin) 0;
 		padding-left: 1.25em;
 
-		ul, ol {
+		li {
             padding-left: 0.25em;
-            margin-bottom: 0.25em;
         }
 
-        blockquote > & {
+        blockquote > &, ol, ul {
             margin-bottom: 0.25em;
         }
 	}
@@ -573,13 +572,12 @@
 		margin: 0 0 _size(element-margin) 0;
         padding-left: 1em;
 
-        blockquote > & {
+        blockquote > &, ol, ul {
             margin-bottom: 0.25em;
         }
 
-		ul, ol {
+		li {
             padding-left: 0.5em;
-            margin-bottom: 0.25em;
 		}
 
 		&.alt {
