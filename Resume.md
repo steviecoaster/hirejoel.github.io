@@ -3,6 +3,18 @@ layout: post
 title: Resume
 permalink: /resume/
 ---
+## Blog
+
+> - [Clear-Script Blog](http://joel.pwsh.ca/)
+> - Include description of topics covered, number and frequency of posts
+
+## Talks
+
+> - [Tour of the PowerShell Language Tokenizer](https://www.youtube.com/watch?v=PxwHElPtD-0&t=627s)
+> - [PowerScripting Podcast #323](https://powershell.org/2019/03/episode-323-powerscripting-podcast-joel-sallow/)
+> - PowerShell PowerHour Lightning Talks
+> - [#2 - Learning PowerShell with PSKoans](https://youtu.be/3Yq4sVWJrWo?t=54m)
+> - [#5 - Getting Started with Contributing to PowerShell Core](https://youtu.be/kt-nrHbgTns?t=1h5m8s)
 
 ## Education
 
@@ -25,19 +37,6 @@ permalink: /resume/
 >   - Duration: September 2015 - March 2016
 >   - Position: IT (Helpdesk) / Specialties Temp
 >   - Summary: Include brief summary of job duties, and skills employed
-
-## Blog
-
-> - [Clear-Script Blog](http://joel.pwsh.ca/)
-> - Include description of topics covered, number and frequency of posts
-
-## Talks
-
-> - [Tour of the PowerShell Language Tokenizer](https://www.youtube.com/watch?v=PxwHElPtD-0&t=627s)
-> - [PowerScripting Podcast #323](https://powershell.org/2019/03/episode-323-powerscripting-podcast-joel-sallow/)
-> - PowerShell PowerHour Lightning Talks
-> - [#2 - Learning PowerShell with PSKoans](https://youtu.be/3Yq4sVWJrWo?t=54m)
-> - [#5 - Getting Started with Contributing to PowerShell Core](https://youtu.be/kt-nrHbgTns?t=1h5m8s)
 
 ## Open Source Contributions
 
