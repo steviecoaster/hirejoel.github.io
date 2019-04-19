@@ -539,6 +539,7 @@
 
 		&.avatar {
 			border-radius: 100%;
+            width: 50%;
 
 			&:before {
 				display: none;
@@ -553,10 +554,9 @@
             img {
                 &:not(.headshot) {
                     width: 50%;
-                }
-
-                img.headshot {
-
+                    position: absolute;
+                    right: -0.35em;
+                    bottom: -0.35em;
                 }
             }
         }
