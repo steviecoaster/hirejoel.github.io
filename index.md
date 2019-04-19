@@ -12,7 +12,7 @@ Below, you can find some more information about my open source contributions, my
 
 ## Employment
 
-### [Heritage Carpet & Tile](http://www.heritageflooring.com/)
+### [Heritage Carpet & Tile](http://www.heritageflooring.com/){:target="_blank"}
 
 > **Duration:** May 2017 - Present
 >
@@ -24,7 +24,7 @@ Below, you can find some more information about my open source contributions, my
 > - Led the rollout of VOIP phones for office.
 > - Led the technology plan for multiple relocations.
 
-### [Australia Post](https://auspost.com.au/)
+### [Australia Post](https://auspost.com.au/){:target="_blank"}
 
 > **Duration:** September 2015 - March 2016
 >
@@ -39,13 +39,13 @@ Below, you can find some more information about my open source contributions, my
 
 ### PowerShell Modules (Primary Author)
 
-> #### [PSKoans](https://www.powershellgallery.com/packages/PSKoans/0.42.2)
+> #### [PSKoans](https://www.powershellgallery.com/packages/PSKoans/0.42.2){:target="_blank"}
 >
 > An introduction-to-PowerShell module modelled after [F# Koans](https://github.com/ChrisMarinos/FSharpKoans). The Koans are a set of intentional contradictions that give the user a guided path through which they can learn the basic concepts and constructs that make up PowerShell, and how best to work with them to continually learn more
 >
 > 2,031 Downloads from PowerShell Gallery; 700 commits
 >
-> #### [PSWordCloud](https://www.powershellgallery.com/packages/PSWordCloud/2.1.0)
+> #### [PSWordCloud](https://www.powershellgallery.com/packages/PSWordCloud/2.1.0){:target="_blank"}
 >
 > A module that ingests source text (be it scripts, repositories or other documents), and outputs word clouds depicting the frequesncy of word use. Originally written in PowerShell, and later in C#.
 >
@@ -114,14 +114,14 @@ Below, you can find some more information about my open source contributions, my
 
 ## Education
 
-> ### [Southern Cross University](https://www.scu.edu.au/), Brisbane, Australia
+> ### [Southern Cross University](https://www.scu.edu.au/){:target="_blank"}, Brisbane, Australia
 >
 > - Duration: February 2013 - August 2015
 > - Degrees Pursued: Bachelor of Information Technology; Bachelor of Contemporary Music
 > - Partially-Completed
 > - Two full semesters completed of Music, one semester of Information Technology.
 >
-> ### [Ballina High School](https://ballina-h.schools.nsw.gov.au/), Ballina, Australia
+> ### [Ballina High School](https://ballina-h.schools.nsw.gov.au/){:target="_blank"}, Ballina, Australia
 >
 > - Duration: January 2008 - October 2012
 > - Degree Completed: Higher School Certificate
@@ -136,7 +136,6 @@ Below, you can find some more information about my open source contributions, my
 > - Windows Server 2008-2016
 > - Windows 7-10
 > - Active Directory
-> - Microsoft Office
 
 ## Languages
 
@@ -144,11 +143,11 @@ Below, you can find some more information about my open source contributions, my
 
 ## Contact Information
 
-| Type     | Contact                                                            |
-| :------- | :----------------------------------------------------------------- |
-| Email    | [joelpfrancis@gmail.com](mailto:joelpfrancis@gmail.com)            |
-| Twitter  | [@vexx32](https://twitter.com/vexx32)                              |
-| LinkedIn | [Joel Francis](https://www.linkedin.com/in/joel-francis-356539128) |
+| Type     | Contact                                                                              |
+| :------- | :----------------------------------------------------------------------------------- |
+| Email    | [joelpfrancis@gmail.com](mailto:joelpfrancis@gmail.com)                              |
+| Twitter  | [@vexx32](https://twitter.com/vexx32){:target="_blank"}                              |
+| LinkedIn | [Joel Francis](https://www.linkedin.com/in/joel-francis-356539128){:target="_blank"} |
 
 ## Location
 
