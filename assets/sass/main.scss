@@ -539,7 +539,6 @@
 
 		&.avatar {
 			border-radius: 100%;
-            width: 50%;
 
 			&:before {
 				display: none;
@@ -948,8 +947,9 @@
 		}
 
 		.image.avatar {
-			margin: 0 0 (_size(element-margin) * 0.5) 0;
-			width: 6.25em;
+			margin: 0 (_size(element-margin) * -1) (_size(element-margin) * 0.5) (_size(element-margin) * 0.5);
+            width: 12em;
+            float: right;
 		}
 	}
 
