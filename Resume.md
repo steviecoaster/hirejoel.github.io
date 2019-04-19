@@ -6,7 +6,7 @@ permalink: /resume/
 
 ## Education
 
-<details>
+<details markdown>
     <summary>Click to expand</summary>
 
   - [Southern Cross University](https://www.scu.edu.au/), Brisbane, Australia
@@ -23,7 +23,7 @@ permalink: /resume/
 
 ## Employment
 
-<details>
+<details markdown>
     <summary>Click to expand</summary>
 
   - [Heritage Carpet & Tile](http://www.heritageflooring.com/)
@@ -40,7 +40,7 @@ permalink: /resume/
 
 ## Blog
 
-<details>
+<details markdown>
     <summary>Click to expand</summary>
 
   - [Clear-Script Blog](http://joel.pwsh.ca/)
@@ -50,7 +50,7 @@ permalink: /resume/
 
 ## Talks
 
-<details>
+<details markdown>
     <summary>Click to expand</summary>
 
   - [Tour of the PowerShell Language Tokenizer](https://www.youtube.com/watch?v=PxwHElPtD-0&t=627s)
@@ -65,7 +65,7 @@ permalink: /resume/
 
 ### PowerShell Modules (Primary Author)
 
-<details>
+<details markdown>
     <summary>Click to expand</summary>
 
     - [PSKoans](https://www.powershellgallery.com/packages/PSKoans/0.42.2)
@@ -79,7 +79,7 @@ permalink: /resume/
 
 ### PowerShell Core
 
-<details>
+<details markdown>
     <summary>Click to expand</summary>
 
   - [Fix Write-Output -NoEnumerate](https://github.com/PowerShell/PowerShell/pull/9069)
@@ -97,7 +97,7 @@ permalink: /resume/
 
 ### PowerShell-Docs
 
-<details>
+<details markdown>
     <summary>Click to expand</summary>
 
   - [Add -Scope Information for Update-Help](https://github.com/MicrosoftDocs/PowerShell-Docs/pull/3527)
@@ -107,7 +107,7 @@ permalink: /resume/
 
 ### Miscellaneous
 
-<details>
+<details markdown>
     <summary>Click to expand</summary>
 
   - SkiaSharp
@@ -130,7 +130,7 @@ permalink: /resume/
 </details>
 
 ### Skills
-<details>
+<details markdown>
     <summary>Click to expand</summary>
 
   - Problem Solving
@@ -145,7 +145,7 @@ permalink: /resume/
 
 ### Languages
 
-<details>
+<details markdown>
     <summary>Click to expand</summary>
 
   - Primarily English
@@ -154,7 +154,7 @@ permalink: /resume/
 
 ## Contact Information
 
-<details>
+<details markdown>
     <summary>Click to expand</summary>
 
     | Type              | Contact                                                            |

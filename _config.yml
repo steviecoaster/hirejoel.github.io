@@ -81,7 +81,7 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
   # support rendering inside block HTML elements
-  parse_block_html: true
+  parse_block_html: false
 
 # Set the Sass partials directory, as we're using @imports
 sass:
