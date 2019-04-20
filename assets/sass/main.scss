@@ -270,6 +270,7 @@
         li {
             border-radius: _size(border-radius);
             margin: 5px;
+            display: none;
 
             &:hover {
                 background-color: rgba(0,0,0,0.2);
@@ -282,34 +283,26 @@
             }
         }
 
-        &:not(:hover) {
-            li {
-                margin: 0;
-                padding: 0;
-                opacity: 0;
-                font-size: 0;
-                height: 0
-            }
-
-            &::before {
-                top: 4px;
-                left: 4px;
-                min-width: 32px;
-                min-height: 32px;
-                position: absolute;
-                content: '';
-                background-image: url('/images/burger.svg');
-                background-position: center;
-            }
+        &::before {
+            top: 4px;
+            left: 4px;
+            width: 32px;
+            height: 32px;
+            position: absolute;
+            content: '';
+            background-image: url('/images/burger.svg');
+            background-position: center;
         }
 
         &:hover {
             &::before {
                 display: block;
+                position: relative;
                 width: 100%;
                 content: 'NAVIGATION';
                 padding-left: 5%;
                 border-bottom: 1px solid _palette(fg);
+                background-image: none;
             }
         }
     }
