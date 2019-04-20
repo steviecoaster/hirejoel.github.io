@@ -307,9 +307,9 @@
             &::before {
                 display: block;
                 width: 100%;
-                content: 'navigation';
-                font-variant: small-caps;
-                border-bottom: 1px dotted _palette(border);
+                content: 'NAVIGATION';
+                padding-left: 5%;
+                border-bottom: 1px solid _palette(fg);
             }
         }
     }
