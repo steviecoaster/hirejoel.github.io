@@ -63,7 +63,7 @@
 		font-size: 16pt;
 		font-weight: _font(weight);
 		line-height: 1.75em;
-	}
+    }
 
 	a {
 		@include vendor('transition', ('color #{_duration(transition)} ease-in-out', 'border-color #{_duration(transition)} ease-in-out'));
@@ -245,7 +245,37 @@
 				font-size: 2em;
 			}
 		}
-	}
+    }
+
+    .table-of-contents {
+        position: fixed;
+        top: 1em;
+        right: 1em;
+        z-index: -1;
+        background-color: _palette(burger, bg);
+        padding: (_size(element-margin) * 0.25);
+        border-radius: _size(border-radius);
+        min-width: 0;
+        min-height: 0;
+        content: 'NAVIGATION';
+
+        ul {
+            list-style: none;
+            font-size: 0.8em;
+            opacity: 1;
+        }
+
+        &:hover {
+            content: '';
+        }
+
+        &:not(:hover) {
+            margin: 0;
+            padding: 0;
+            opacity: 0;
+        }
+
+    }
 
 /* Form */
 
