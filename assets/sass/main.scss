@@ -454,12 +454,12 @@
 
         &.sticker {
             position: fixed;
-            width: 32vw;
-            height: 18vh;
+            width: 18vw;
+            height: 32vw;
             top: 50%;
             left: 50%;
-            margin-top: -9vh;
-            margin-left: -16vw;
+            margin-left: -9vw;
+            margin-top: -16vw;
             border-radius: 50%;
             opacity: 0.1;
             pointer-events: none;
