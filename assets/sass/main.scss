@@ -504,7 +504,8 @@
 
 		img {
 			border-radius: _size(border-radius);
-			display: block;
+            display: block;
+            border: 2px solid _palette(border);
 		}
 
 		&.left {
