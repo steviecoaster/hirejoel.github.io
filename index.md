@@ -21,7 +21,7 @@ Below, you can find some more information about me, [where I come from](#educati
 >
 > - Tier 2/3 support for helpdesk issues.
 > - Worked with local MSP for hardware purchases and deployments.
-> - Created custom PowerShell module to automate workstation deployments.
+> - Created custom PowerShell module to automate workstation deployments, used by myself and our MSP, saving a handful of hours of manual work per new user.
 > - Led the rollout of VOIP phones for office.
 > - Led the technology plan for multiple relocations.
 >
