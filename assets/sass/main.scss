@@ -295,10 +295,14 @@
         }
 
         &:hover {
+            li {
+                display: block;
+            }
+
             &::before {
                 display: block;
                 position: relative;
-                width: 100%;
+                width: auto;
                 content: 'NAVIGATION';
                 padding-left: 5%;
                 border-bottom: 1px solid _palette(fg);
