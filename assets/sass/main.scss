@@ -247,7 +247,7 @@
 		}
     }
 
-    .table-of-contents {
+    ul.table-of-contents {
         position: fixed;
         top: 1em;
         right: 1em;
@@ -257,23 +257,26 @@
         border-radius: _size(border-radius);
         min-width: 0;
         min-height: 0;
-        content: 'NAVIGATION';
+        list-style-type: none;
+        font-size: 0.8em;
+        opacity: 1;
 
-        ul {
-            list-style: none;
-            font-size: 0.8em;
-            opacity: 1;
-        }
 
         &:hover {
-            content: '';
+            font-size: 0;
         }
 
         &:not(:hover) {
-            ul {
+            li {
                 margin: 0;
                 padding: 0;
                 opacity: 0;
+            }
+
+            &::before {
+                min-width: 1em;
+                min-height: 1em;
+                content: 'NAVIGATION';
             }
         }
 
