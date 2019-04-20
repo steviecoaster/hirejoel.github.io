@@ -133,13 +133,10 @@ Below, you can find some more information about my open source contributions, my
 > - F#
 > - Git
 > - HTML / CSS
+> - Markdown & PlatyPS
 > - Windows Server 2008-2016
 > - Windows 7-10
 > - Active Directory
-
-## Languages
-
-> - Primarily English
 
 ## Contact Information
 
