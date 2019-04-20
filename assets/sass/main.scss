@@ -1017,7 +1017,7 @@
 		}
 
 		.image.avatar {
-			margin: 0 (_size(element-margin) * -1) (_size(element-margin) * 0.5) (_size(element-margin) * 0.5);
+			margin: 0 (_size(element-margin) * -0.5) (_size(element-margin) * 0.5) (_size(element-margin) * 0.5);
             width: 12em;
             float: right;
 		}
