@@ -24,8 +24,8 @@ Below, you can find some more information about me, [where I come from](#educati
 > - Created custom PowerShell module to automate workstation deployments.
 > - Led the rollout of VOIP phones for office.
 > - Led the technology plan for multiple relocations.
-
-[top](#top){:class="top-link"}
+>
+> [top](#top){:class="top-link"}
 
 ### [Australia Post](https://auspost.com.au/){:target="_blank"}
 
@@ -37,8 +37,8 @@ Below, you can find some more information about me, [where I come from](#educati
 > - Solving customer issues or directing them to the department that can solve their issues.
 > - Many problem-solving and customer interaction opportunities.
 > - Some experience with SalesForce.
-
-[top](#top){:class="top-link"}
+>
+> [top](#top){:class="top-link"}
 
 ## Open Source Contributions
 
@@ -55,8 +55,8 @@ Below, you can find some more information about me, [where I come from](#educati
 > A module that ingests source text (be it scripts, repositories or other documents), and creates a word cloud representing the frequency of word use. Originally written in PowerShell, and later in C# with the SkiaSharp library.
 >
 > 200+ Downloads from PowerShell Gallery; 75 commits
-
-[top](#top){:class="top-link"}
+>
+> [top](#top){:class="top-link"}
 
 ### PowerShell Core
 
@@ -70,15 +70,15 @@ Below, you can find some more information about me, [where I come from](#educati
 > - [Add Support for Byte-type Numeric Literals](https://github.com/PowerShell/PowerShell/pull/7901){:target="_blank"}
 > - [Add C#-style Numeric Literals and Type Accelerators](https://github.com/PowerShell/PowerShell/pull/7813){:target="_blank"}
 > - Code Cleanup [(1)](https://github.com/PowerShell/PowerShell/pull/9074){:target="_blank"} [(2)](https://github.com/PowerShell/PowerShell/pull/9021){:target="_blank"} [(3)](https://github.com/PowerShell/PowerShell/pull/8683){:target="_blank"}
-
-[top](#top){:class="top-link"}
+>
+> [top](#top){:class="top-link"}
 
 ### PowerShell-Docs
 
 > - [Add -Scope Information for Update-Help](https://github.com/MicrosoftDocs/PowerShell-Docs/pull/3527){:target="_blank"}
 > - [Fix Get-Member -InputObject Example](https://github.com/MicrosoftDocs/PowerShell-Docs/pull/3373){:target="_blank"}
-
-[top](#top){:class="top-link"}
+>
+> [top](#top){:class="top-link"}
 
 ### Miscellaneous
 
@@ -98,16 +98,16 @@ Below, you can find some more information about me, [where I come from](#educati
 >   - [Use List\<T\> for Building Collections](https://github.com/pester/Pester/pull/1144){:target="_blank"}
 > - PowerShellPracticeAndStyle
 >   - [Updates to Code Layout and Formatting](https://github.com/PoshCode/PowerShellPracticeAndStyle/pull/115){:target="_blank"}
-
-[top](#top){:class="top-link"}
+>
+> [top](#top){:class="top-link"}
 
 ## [Clear-Script Blog](http://joel.pwsh.ca/)
 
 > - Primarily PowerShell-focused blog with some C# sprinkled in.
 > - Covers some of the more esoteric and lesser-known PowerShell content.
 > - Written entirely in Markdown with Kramdown, maintained on [Github](https://github.com/vexx32/vexx32.github.io){:target="_blank"}.
-
-[top](#top){:class="top-link"}
+>
+> [top](#top){:class="top-link"}
 
 ## Talks
 
@@ -120,16 +120,16 @@ Below, you can find some more information about me, [where I come from](#educati
 >
 > - [#2 - Learning PowerShell with PSKoans](https://youtu.be/3Yq4sVWJrWo?t=54m){:target="_blank"}
 > - [#5 - Getting Started with Contributing to PowerShell Core](https://youtu.be/kt-nrHbgTns?t=1h5m8s){:target="_blank"}
-
-[top](#top){:class="top-link"}
+>
+> [top](#top){:class="top-link"}
 
 ## Communities
 
 > You can frequently find me in the PowerShell Slack or Discord spaces, as well as the /r/PowerShell subreddit, where I am one of the more well-known contributors.
 > Most of my time in these spaces is spent helping others talk through and solve their more difficult problems, reviewing their code, and discussing the future of PowerShell and how it fits into the wider developer and administrative ecosystems.
 > I also frequently invest time in newer PowerShell users, helping provide learning resources and teaching concepts to help them on their journey.
-
-[top](#top){:class="top-link"}
+>
+> [top](#top){:class="top-link"}
 
 ## Education
 
@@ -144,8 +144,8 @@ Below, you can find some more information about me, [where I come from](#educati
 >
 > - Duration: January 2008 - October 2012
 > - Degree Completed: Higher School Certificate
-
-[top](#top){:class="top-link"}
+>
+> [top](#top){:class="top-link"}
 
 ## Skills
 
@@ -158,8 +158,8 @@ Below, you can find some more information about me, [where I come from](#educati
 > - Windows Server 2008-2016
 > - Windows 7-10
 > - Active Directory
-
-[top](#top){:class="top-link"}
+>
+> [top](#top){:class="top-link"}
 
 ## Contact Information
 
@@ -174,3 +174,5 @@ Below, you can find some more information about me, [where I come from](#educati
 ## Location
 
 > I am currently located in South Florida. I am more than open to remote-based opportunities, but I am unable to relocate very far from where I currently reside, between Ft. Lauderdale and West Palm Beach area.
+>
+> [top](#top){:class="top-link"}
