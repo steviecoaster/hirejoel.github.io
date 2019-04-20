@@ -75,7 +75,12 @@
 			border-bottom-color: transparent;
 			color: _palette(accent1, bg) !important;
 			text-decoration: none;
-		}
+        }
+
+        &.top-link {
+            font-variant: small-caps;
+            font-size: 0.45em;
+        }
 	}
 
 	strong, b {

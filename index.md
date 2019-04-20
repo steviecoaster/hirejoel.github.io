@@ -5,10 +5,11 @@ title: About Me
 ---
 
 Hello! I'm Joel, and I enjoy solving problems. Whether it be complex problems involving code, enhancements to open source projects, or just fun little challenges like creating word clouds, I’m always game for a new puzzle.
+{:id="top"}
 
-If you’ve made it here, you’re probably aware that I am seeking my next challenge. Ideally I'd love to find a role where I can add a great deal of value as I improve my own skillsets as well as those of the people I work with. I would love to find a new opportunity to use my skills, and add value to your organization!
+If you’ve made it here, you’re probably aware that I am seeking my next challenge. Ideally I'd love to find a role where I can add a great deal of value as I improve my own skillsets as well as those of the people I work with. I'm looking fo a new opportunity to use my skills, and add value to your organization!
 
-Below, you can find some more information about my open source contributions, my PowerShell blog, a copy of my resume, and some contact information. Feel free to reach out and let's discuss how I can be an asset to your team!
+Below, you can find some more information about me, [where I come from](#education), and [what I've been up to](#open-source-contributions) in recent times. If you think I'd be a good fit for your team, see my [contact information](#contact-information).
 
 ## Employment
 
@@ -24,6 +25,8 @@ Below, you can find some more information about my open source contributions, my
 > - Led the rollout of VOIP phones for office.
 > - Led the technology plan for multiple relocations.
 
+[top](#top){:class="top-link"}
+
 ### [Australia Post](https://auspost.com.au/){:target="_blank"}
 
 > **Duration:** September 2015 - March 2016
@@ -34,6 +37,8 @@ Below, you can find some more information about my open source contributions, my
 > - Solving customer issues or directing them to the department that can solve their issues.
 > - Many problem-solving and customer interaction opportunities.
 > - Some experience with SalesForce.
+
+[top](#top){:class="top-link"}
 
 ## Open Source Contributions
 
@@ -51,6 +56,8 @@ Below, you can find some more information about my open source contributions, my
 >
 > 200+ Downloads from PowerShell Gallery; 75 commits
 
+[top](#top){:class="top-link"}
+
 ### PowerShell Core
 
 > - [Fix Write-Output -NoEnumerate](https://github.com/PowerShell/PowerShell/pull/9069){:target="_blank"}
@@ -64,10 +71,14 @@ Below, you can find some more information about my open source contributions, my
 > - [Add C#-style Numeric Literals and Type Accelerators](https://github.com/PowerShell/PowerShell/pull/7813){:target="_blank"}
 > - Code Cleanup [(1)](https://github.com/PowerShell/PowerShell/pull/9074){:target="_blank"} [(2)](https://github.com/PowerShell/PowerShell/pull/9021){:target="_blank"} [(3)](https://github.com/PowerShell/PowerShell/pull/8683){:target="_blank"}
 
+[top](#top){:class="top-link"}
+
 ### PowerShell-Docs
 
 > - [Add -Scope Information for Update-Help](https://github.com/MicrosoftDocs/PowerShell-Docs/pull/3527){:target="_blank"}
 > - [Fix Get-Member -InputObject Example](https://github.com/MicrosoftDocs/PowerShell-Docs/pull/3373){:target="_blank"}
+
+[top](#top){:class="top-link"}
 
 ### Miscellaneous
 
@@ -88,11 +99,15 @@ Below, you can find some more information about my open source contributions, my
 > - PowerShellPracticeAndStyle
 >   - [Updates to Code Layout and Formatting](https://github.com/PoshCode/PowerShellPracticeAndStyle/pull/115){:target="_blank"}
 
+[top](#top){:class="top-link"}
+
 ## [Clear-Script Blog](http://joel.pwsh.ca/)
 
 > - Primarily PowerShell-focused blog with some C# sprinkled in.
 > - Covers some of the more esoteric and lesser-known PowerShell content.
 > - Written entirely in Markdown with Kramdown, maintained on [Github](https://github.com/vexx32/vexx32.github.io){:target="_blank"}.
+
+[top](#top){:class="top-link"}
 
 ## Talks
 
@@ -106,11 +121,15 @@ Below, you can find some more information about my open source contributions, my
 > - [#2 - Learning PowerShell with PSKoans](https://youtu.be/3Yq4sVWJrWo?t=54m){:target="_blank"}
 > - [#5 - Getting Started with Contributing to PowerShell Core](https://youtu.be/kt-nrHbgTns?t=1h5m8s){:target="_blank"}
 
+[top](#top){:class="top-link"}
+
 ## Communities
 
 > You can frequently find me in the PowerShell Slack or Discord spaces, as well as the /r/PowerShell subreddit, where I am one of the more well-known contributors.
 > Most of my time in these spaces is spent helping others talk through and solve their more difficult problems, reviewing their code, and discussing the future of PowerShell and how it fits into the wider developer and administrative ecosystems.
 > I also frequently invest time in newer PowerShell users, helping provide learning resources and teaching concepts to help them on their journey.
+
+[top](#top){:class="top-link"}
 
 ## Education
 
@@ -126,6 +145,8 @@ Below, you can find some more information about my open source contributions, my
 > - Duration: January 2008 - October 2012
 > - Degree Completed: Higher School Certificate
 
+[top](#top){:class="top-link"}
+
 ## Skills
 
 > - PowerShell
@@ -138,6 +159,8 @@ Below, you can find some more information about my open source contributions, my
 > - Windows 7-10
 > - Active Directory
 
+[top](#top){:class="top-link"}
+
 ## Contact Information
 
 | Type     | Contact                                                                              |
@@ -145,6 +168,8 @@ Below, you can find some more information about my open source contributions, my
 | Email    | [joelpfrancis@gmail.com](mailto:joelpfrancis@gmail.com)                              |
 | Twitter  | [@vexx32](https://twitter.com/vexx32){:target="_blank"}                              |
 | LinkedIn | [Joel Francis](https://www.linkedin.com/in/joel-francis-356539128){:target="_blank"} |
+
+[top](#top){:class="top-link"}
 
 ## Location
 
