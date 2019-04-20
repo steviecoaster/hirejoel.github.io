@@ -262,14 +262,6 @@
         opacity: 0.95;
         //transition: 0.25s all;
 
-        &::before {
-            display: block;
-            width: 100%;
-            content: 'navigation';
-            font-variant: small-caps;
-            border-bottom: 1px dotted _palette(border);
-        }
-
         ul {
             list-style-type: none;
             padding-bottom: 1px;
@@ -313,9 +305,11 @@
 
         &:hover {
             &::before {
-                opacity: 0;
-                min-width: 0;
-                min-height: 0;
+                display: block;
+                width: 100%;
+                content: 'navigation';
+                font-variant: small-caps;
+                border-bottom: 1px dotted _palette(border);
             }
         }
     }
