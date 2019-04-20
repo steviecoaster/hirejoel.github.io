@@ -452,19 +452,6 @@
 		display: inline-block;
         position: relative;
 
-        &.sticker {
-            position: fixed;
-            width: 24vw;
-            height: 32vw;
-            top: 50%;
-            left: 50%;
-            margin-left: -12vw;
-            margin-top: -16vw;
-            border-radius: 50%;
-            opacity: 0.1;
-            pointer-events: none;
-        }
-
 		&:before {
 			@include vendor('transition', 'opacity #{_duration(transition)} ease-in-out');
 			background: url('images/overlay.png');
