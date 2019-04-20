@@ -12,8 +12,8 @@ If you’ve made it here, you’re probably aware that I am seeking my next chal
 Below, you can find some more information about me, [where I come from](#education), and [what I've been up to](#open-source-contributions) in recent times. If you think I'd be a good fit for your team, see my [contact information](#contact-information).
 
 - [Employment](#employment)
-  - [Heritage Carpet & Tile{:target="_blank"}](#heritage-carpet--tiletarget%22blank%22)
-  - [Australia Post{:target="_blank"}](#australia-posttarget%22blank%22)
+  - [Heritage Carpet & Tile {:target="_blank"}](#heritage-carpet--tile-target%22blank%22)
+  - [Australia Post {:target="_blank"}](#australia-post-target%22blank%22)
 - [Open Source Contributions](#open-source-contributions)
   - [PowerShell Modules (Primary Author)](#powershell-modules-primary-author)
   - [PowerShell Core](#powershell-core)
@@ -30,7 +30,7 @@ Below, you can find some more information about me, [where I come from](#educati
 
 ## Employment
 
-### [Heritage Carpet & Tile](http://www.heritageflooring.com/){:target="_blank"}
+### [Heritage Carpet & Tile](http://www.heritageflooring.com/) {:target="_blank"}
 
 > **Duration:** May 2017 - Present
 >
@@ -44,7 +44,7 @@ Below, you can find some more information about me, [where I come from](#educati
 >
 > [top](#top){:class="top-link"}
 
-### [Australia Post](https://auspost.com.au/){:target="_blank"}
+### [Australia Post](https://auspost.com.au/) {:target="_blank"}
 
 > **Duration:** September 2015 - March 2016
 >

@@ -260,6 +260,15 @@
         list-style-type: none;
         font-size: 0.8em;
         opacity: 1;
+        transition: 0.25s all;
+
+        ul {
+            list-style-type: none;
+        }
+
+        li {
+            transition: 0.25s all;
+        }
 
         &:not(:hover) {
             li {
@@ -267,15 +276,25 @@
                 padding: 0;
                 opacity: 0;
                 font-size: 0;
+                height: 0
             }
 
             &::before {
-                min-width: 1em;
-                min-height: 1em;
-                content: 'NAVIGATION';
+                width: 32px;
+                height: 32px;
+                content: '';
+                background-image: '/images/burger.svg';
+                background-position: center;
             }
         }
 
+        &:hover {
+            &::before {
+                opacity: 0;
+                width: 0;
+                height: 0;
+            }
+        }
     }
 
 /* Form */
