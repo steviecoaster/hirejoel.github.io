@@ -255,19 +255,15 @@
         background-color: _palette(burger, bg);
         padding: (_size(element-margin) * 0.25);
         border-radius: _size(border-radius);
-        min-width: 1em;
-        min-height: 1em;
+        min-width: 40px;
+        min-height: 40px;
         list-style-type: none;
         font-size: 0.8em;
         opacity: 1;
-        transition: 0.25s all;
+        //transition: 0.25s all;
 
         ul {
             list-style-type: none;
-        }
-
-        * {
-            transition: 0.25s all;
         }
 
         &:not(:hover) {
@@ -289,6 +285,9 @@
         }
 
         &:hover {
+            width: 100px;
+            height: 200px;
+
             &::before {
                 opacity: 0;
                 min-width: 0;
