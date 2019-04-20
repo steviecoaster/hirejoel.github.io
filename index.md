@@ -61,13 +61,13 @@ Below, you can find some more information about me, [where I come from](#educati
 
 ### PowerShell Modules (Primary Author)
 
-> #### [PSKoans](https://www.powershellgallery.com/packages/PSKoans/0.42.2){:target="_blank"}
+> #### [PSKoans](https://www.powershellgallery.com/packages/PSKoans/){:target="_blank"}
 >
 > An introduction-to-PowerShell module modelled after [F# Koans](https://github.com/ChrisMarinos/FSharpKoans){:target="_blank"}. The Koans are a set of intentional contradictions that give the user a guided path through which they can learn the basic concepts and constructs that make up PowerShell, and how best to work with them to continually learn more
 >
 > 2K+ Downloads from PowerShell Gallery; 700 commits
 >
-> #### [PSWordCloud](https://www.powershellgallery.com/packages/PSWordCloud/2.1.0){:target="_blank"}
+> #### [PSWordCloud](https://www.powershellgallery.com/packages/PSWordCloud/){:target="_blank"}
 >
 > A module that ingests source text (be it scripts, repositories or other documents), and creates a word cloud representing the frequency of word use. Originally written in PowerShell, and later in C# with the SkiaSharp library.
 >
