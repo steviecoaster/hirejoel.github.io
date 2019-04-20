@@ -264,11 +264,13 @@
 
         ul {
             list-style-type: none;
+            padding-bottom: 1px;
         }
 
         li {
             background-color: rgba(0,0,0,0.1);
             border-radius: _size(border-radius);
+            margin: 5px;
 
             &:hover {
                 background-color: rgba(0,0,0,0.2);
@@ -276,6 +278,7 @@
 
             a {
                 text-decoration: none;
+                display: block;
                 color: _palette(bg);
             }
         }
