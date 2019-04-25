@@ -259,7 +259,8 @@
         min-height: 40px;
         list-style-type: none;
         font-size: 0.8em;
-        opacity: 0.95;
+		opacity: 0.95;
+		box-shadow: (_size(element-margin) * 0.125) (_size(element-margin) * 0.125) (_size(element-margin) * 0.25);
         //transition: 0.25s all;
 
         ul {
