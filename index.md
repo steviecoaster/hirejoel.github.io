@@ -26,7 +26,7 @@ Below, you can find some more information about me, [where I come from](#educati
 - [Skills](#skills)
 - [Contact Information](#contact-information)
 - [Location](#location)
-- [Download Resume]({{ site.github.url }}/Resume.pdf)
+- [Download PDF Version]({{ site.github.url }}/Resume.pdf)
 {:class="table-of-contents"}
 
 ## Employment
