@@ -4,12 +4,15 @@ image: /images/fulls/01.jpg
 title: About Me
 ---
 
-Hello! I'm Joel, and I enjoy solving problems. Whether it be complex problems involving code, enhancements to open source projects, or just fun little challenges like creating word clouds, I’m always game for a new puzzle.
+Hello! I'm Joel, and I enjoy solving problems. Whether it be complex problems involving code, enhancements to open source projects, or just fun little challenges like creating word clouds, I'm always game for a new puzzle.
 {:id="top"}
 
-If you’ve made it here, you’re probably aware that I am seeking my next challenge. Ideally I'd love to find a role where I can add a great deal of value as I improve my own skillsets as well as those of the people I work with. I'm looking for a new opportunity to use my skills, and add value to your organization!
+If you've made it here, you're probably aware that I am seeking my next challenge.
+Ideally I'd love to find a role where I can add a great deal of value as I improve my own skillsets as well as those of the people I work with.
+I'm looking for a new opportunity to use my skills, and add value to your organisation!
 
-Below, you can find some more information about me, [where I come from](#education), and [what I've been up to](#open-source-contributions) in recent times. If you think I'd be a good fit for your team, see my [contact information](#contact-information).
+Below, you can find some more information about me, [where I come from](#education), and [what I've been up to](#open-source-contributions) in recent times.
+If you think I'd be a good fit for your team, see my [contact information](#contact-information).
 
 - [Employment](#employment)
   - [Heritage Carpet & Tile](#heritage-carpet--tile)
@@ -26,14 +29,28 @@ Below, you can find some more information about me, [where I come from](#educati
 - [Skills](#skills)
 - [Contact Information](#contact-information)
 - [Location](#location)
-- [Download PDF Version]({{ site.github.url }}/Resume.pdf)
 {:class="table-of-contents"}
+<!--- [Download PDF Version]({{ site.github.url }}/Resume.pdf)-->
 
 ## Employment
 
-### [Heritage Carpet & Tile](http://www.heritageflooring.com/){:target="_blank"}
+### [Chocolatey Software](https://chocolatey.org/){:target="_blank"}
 
-> **Duration:** May 2017 - Present
+> **Duration:** November 2019 - Present
+>
+> **Position:** Software Engineer
+>
+> - Software development, issue triage, and documentation for:
+>   - Chocolatey Central Management
+>   - Chocolatey CLI
+> - Modernisation of licensing systems.
+> - Ground-up implementation of integration testing infrastructure for major products.
+>
+> [top](#top){:class="top-link"}
+
+### [Heritage Carpet & Tile](https://www.heritageflooring.com/){:target="_blank"}
+
+> **Duration:** May 2017 - November 2019
 >
 > **Position:** IT (Helpdesk) / Window Treatments Coordinator / Specialties Temp
 >
@@ -168,20 +185,17 @@ Below, you can find some more information about me, [where I come from](#educati
 ## Skills
 
 > - PowerShell
-> - C#
+> - Rust
+> - C#, EntityFramework, ASP.NET Core
 > - F#
 > - Git
 > - HTML / CSS
-> - Markdown & PlatyPS
-> - Windows Server 2008-2016
-> - Windows 7-10
-> - Active Directory
 >
 > [top](#top){:class="top-link"}
 
 ## Contact Information
 
-| Type     | Contact                                                                              |
+|          |                                                                                      |
 | :------- | :----------------------------------------------------------------------------------- |
 | Email    | [joelpfrancis@gmail.com](mailto:joelpfrancis@gmail.com)                              |
 | Twitter  | [@vexx32](https://twitter.com/vexx32){:target="_blank"}                              |
